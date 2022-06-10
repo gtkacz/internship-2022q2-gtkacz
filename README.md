@@ -2,9 +2,10 @@
     <p align="center">
         <img src="/img/AF-logotiposecundario-GiantSteps-positivo-2.png" style="height: 7ch;"><br>
         <h1 align="center">Giant Steps Capital Internship Test</h1>
-        [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gtkacz/internship-2022q2-gtkacz/main?labpath=https%3A%2F%2Fgithub.com%2Fgtkacz%2Finternship-2022q2-gtkacz%2Fblob%2Fmain%2Fsolution.ipynb)
     </p>
 </center>
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gtkacz/internship-2022q2-gtkacz/main?labpath=https%3A%2F%2Fgithub.com%2Fgtkacz%2Finternship-2022q2-gtkacz%2Fblob%2Fmain%2Fsolution.ipynb)
 
 <hr>
 
