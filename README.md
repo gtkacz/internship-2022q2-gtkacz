@@ -12,9 +12,7 @@
 
 <p align="center">
     <h2 align="center">How to use:</h2>
-    <p>
-        <h3 align="center">To run in the cloud with </h3><img src="/img/colab_favicon_256px.png" style="height: 3ch;">
-    </p>
+    <h3 align="center" style="vertical-align:middle;">To run in the cloud with </h3><img src="/img/colab_favicon_256px.png" style="height: 3ch;">
 </p>
 
 <hr>
