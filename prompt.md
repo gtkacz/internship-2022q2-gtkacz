@@ -38,7 +38,7 @@ Daily frequency with the following inputs:
 Your solution should contain the following data:
 
 | Date  |  Capital  | Amount earned |
-| ------------- | ------------- | ------------- |
+| ------------ | ------------ | ------------ |
 | 2010-01-04 | 657.430000 | 0.000000 |
 | 2010-01-05 | 657.646472 | 0.216472 |
 | 2010-01-06 | 657.863015 | 0.433015 |
