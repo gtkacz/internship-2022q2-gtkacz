@@ -12,14 +12,9 @@
 
 <p align="center">
     <h2 align="center">How to use:</h2>
-    <ol align="center">
-        <li align="center">On  the <i>.htaccess</i> file, replace your deployment directory on <i>RewriteBase</i></li>
-        <ul>
-            <li>For example: if you're deploying at <i>https://localhost/myapp/</i>, <i>RewriteBase</i> must be <i>/myapp/</i></li>
-            <li>Else if you're deploying simply at <i>https://localhost/</i>, <i>RewriteBase</i> must be <i>/</i></li>
-        </ul>
-        <li align="center">On  the <i>/app/models/Database.php</i> file, replace the <i>HOST</i>, <i>USER</i>, <i>PASSWORD</i> and <i>DBNAME</i> constants with your relevant SQL information.</li>
-    </ol>
+    <p>
+        <h3 align="center">To run in the cloud with </h3><img src="/img/colab_favicon_256px.png" style="height: 15ch;">
+    </p>
 </p>
 
 <hr>
