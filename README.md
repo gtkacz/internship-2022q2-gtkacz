@@ -42,7 +42,7 @@
     <br>
     <h4><b>(UNSTABLE) If you don't have Python and are on Windows:</b></h4>
     <ol>
-        <li>Download the executable (192 MB) from <a href="https://github.com/gtkacz/internship-2022q2-gtkacz/releases/download/executable/deliverable.exe">the Releases tab</a>.</li>
+        <li>Download the executable (192 MB) from <a href="https://github.com/gtkacz/internship-2022q2-gtkacz/releases/download/executable/deliverable.exe" target="_blank">the Releases tab</a>.</li>
         <li>Open it.</li>
     </ol>
 </p>
@@ -63,7 +63,7 @@
         <li>Done!</li>
     </ol>
     <br>
-    <h4><b>If you are using the executable:</b></h4>
+    <h4><b>If you're using the executable:</b></h4>
     <ol>
         <small><i>Note: this program is unstable and sometimes doesn't work.</i></small>
         <li>Fill out the box with the relevant information:</li>
@@ -82,7 +82,7 @@
     <h2 align="center">The Answer:</h2>
     <span>The most profitable period of 500 calendar days between 01/01/2000 and 31/03/2021 was between 29/10/2001 and 22/10/2003, where an investment would have yielded an increase of approximately 46.7%.</span>
     <br>
-    <small>For the relevant calculations, refer to the appropriate <a href="https://github.com/gtkacz/internship-2022q2-gtkacz/blob/main/QUESTION.ipynb">notebook.</a></small>
+    <small>For the relevant calculations, refer to the appropriate <a href="https://github.com/gtkacz/internship-2022q2-gtkacz/blob/main/QUESTION.ipynb" target="_blank">notebook.</a></small>
 <p>
 
 <hr>
