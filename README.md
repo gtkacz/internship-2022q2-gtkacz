@@ -55,12 +55,12 @@
     <h4><b>If you are running code</b></h4>
     <ol>
         <li>Click the <i>"Run All"</i> button.</li>
-        <li>Fill out the box with the relevant information:</li>
+        <li>Fill out the prompt with the relevant information:</li>
         <img src="/img/showcase.jpg">
             <ul>
                 <li>If you want to test out one of the prompt examples, just select them from the dropdown menu!</li>
             </ul>
-        <li>(OPTIONAL) If you chose to export the results as sheets, select the desired filename.</li>
+        <li>(OPTIONAL) If you chose to export the results as sheets, type in the desired filename.</li>
         <li>Done!</li>
     </ol>
     <br>
@@ -70,12 +70,12 @@
         <small><i>Note: this program is unstable and often doesn't work.</i></small>
     </h4>
     <ol>
-        <li>Fill out the box with the relevant information:</li>
+        <li>Fill out the prompt with the relevant information:</li>
         <img src="/img/showcase.jpg">
             <ul>
                 <li>If you want to test out one of the prompt examples, just select them from the dropdown menu!</li>
             </ul>
-        <li>(OPTIONAL) If you chose to export the results as sheets, select the desired filename.</li>
+        <li>(OPTIONAL) If you chose to export the results as sheets, type in the desired filename.</li>
         <li>Done!</li>
     </ol>
 </p>
