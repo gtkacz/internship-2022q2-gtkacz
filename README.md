@@ -8,6 +8,8 @@
     </p> -->
 </center>
 
+<hr>
+
 <p align="center">
     <h2 align="center">Table of Contents:</h2>
     <center>
@@ -99,7 +101,7 @@
     <h2 align="center" name="answer">The Answer:</h2>
     <span>The most profitable period of 500 calendar days between 01/01/2000 and 31/03/2021 was between 29/10/2001 and 22/10/2003, where an investment would have yielded an increase of approximately 46.7%.</span>
     <br>
-    <small>For the relevant calculations, refer to the appropriate <a href="https://github.com/gtkacz/internship-2022q2-gtkacz/blob/main/QUESTION.ipynb" target="_blank">notebook.</a></small><br>
+    <sub><sup><small>For the relevant calculations, refer to the appropriate <a href="https://github.com/gtkacz/internship-2022q2-gtkacz/blob/main/QUESTION.ipynb" target="_blank">notebook.</a></small></sup></sub><br>
     <p align="center">
     <!-- <img src="/img/AF-logotiposecundario-GiantSteps-positivo-2.png" style="height: 15ch;"> -->
     <span><a href="https://docs.google.com/spreadsheets/d/1KO8BKKN8K8IIYAvjXRe_fNx9zJujpuTf/edit#gid=641358333&range=E5338">Validation with Google Sheets:</a></span><br>
