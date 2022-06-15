@@ -4,3 +4,5 @@
 *.xlsx
 *.csv
 testes.ipynb
+.env
+deliverable.exe
