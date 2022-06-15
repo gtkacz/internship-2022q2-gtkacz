@@ -8,10 +8,23 @@
     </p> -->
 </center>
 
+<p align="center">
+    <h2 align="center">Table of Contents:</h2>
+    <center>
+    <table align="center">
+        <tr>
+            <th><a href="#install">How to install</a></th>
+            <th><a href="#use">How to use</a></th>
+            <th><a href="#answer">The Answer</a></th>
+        </tr>
+    </table>
+    </center>
+</p>
+
 <hr>
 
 <p align="center">
-    <h2 align="center">How to install:</h2>
+    <h2 align="center" name="install">How to install:</h2>
     <h4><b>(RECOMMENDED) If you are on Windows/MacOS or don't have Docker:</b></h4>
     <ol>
         <li>Clone the repository with: <code>git clone https://github.com/gtkacz/internship-2022q2-gtkacz.git</code></li>
@@ -51,7 +64,7 @@
 <br>
 
 <p align="center">
-    <h2 align="center">How to use:</h2>
+    <h2 align="center" name="use">How to use:</h2>
     <h4><b>If you are running code</b></h4>
     <ol>
         <li>Click the <i>"Run All"</i> button.</li>
@@ -83,13 +96,13 @@
 <hr>
 
 <p align="center">
-    <h2 align="center">The Answer:</h2>
+    <h2 align="center" name="answer">The Answer:</h2>
     <span>The most profitable period of 500 calendar days between 01/01/2000 and 31/03/2021 was between 29/10/2001 and 22/10/2003, where an investment would have yielded an increase of approximately 46.7%.</span>
     <br>
     <small>For the relevant calculations, refer to the appropriate <a href="https://github.com/gtkacz/internship-2022q2-gtkacz/blob/main/QUESTION.ipynb" target="_blank">notebook.</a></small><br>
     <p align="center">
     <!-- <img src="/img/AF-logotiposecundario-GiantSteps-positivo-2.png" style="height: 15ch;"> -->
-    <span><a href="https://docs.google.com/spreadsheets/d/1KO8BKKN8K8IIYAvjXRe_fNx9zJujpuTf/edit?usp=sharing&ouid=106534612207861138756&rtpof=true&sd=true">Validation with Google Sheets:</a></span><br>
+    <span><a href="https://docs.google.com/spreadsheets/d/1KO8BKKN8K8IIYAvjXRe_fNx9zJujpuTf/edit#gid=641358333&range=E5338">Validation with Google Sheets:</a></span><br>
     <img src="/img/validation.jpg">
     </p>
 <p>
