@@ -67,6 +67,7 @@
 
 <p align="center">
     <h2 align="center" name="use">How to use:</h2>
+    <strong><em>Important note: non-calendar days were filled in with an interest rate of 0 in order for the code to work. All the results are correct, even though the outputs may present different dates than the examples.</em></strong>
     <h4><b>If you are running code</b></h4>
     <ol>
         <li>Click the <i>"Run All"</i> button.</li>
