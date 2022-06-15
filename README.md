@@ -52,7 +52,7 @@
 
 <p align="center">
     <h2 align="center">How to use:</h2>
-    <h4><b>If you're running code</b></h4>
+    <h4><b>If you are running code</b></h4>
     <ol>
         <li>Click the <i>"Run All"</i> button.</li>
         <li>Fill out the box with the relevant information:</li>
@@ -64,9 +64,12 @@
         <li>Done!</li>
     </ol>
     <br>
-    <h4><b>If you're using the executable:</b></h4>
+    <h4>
+        <b>If you are using the executable:</b>
+        <br>
+        <small><i>Note: this program is unstable and often doesn't work.</i></small>
+    </h4>
     <ol>
-        <small><i>Note: this program is unstable and sometimes doesn't work.</i></small>
         <li>Fill out the box with the relevant information:</li>
         <img src="/img/showcase.jpg">
             <ul>
