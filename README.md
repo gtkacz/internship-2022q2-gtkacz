@@ -32,10 +32,11 @@
     <h4><b>If you are on Linux and have Docker:</b></h4>
     <ol>
         <li>Clone the repository with: <code>git clone https://github.com/gtkacz/internship-2022q2-gtkacz.git</code></li>
-        <li>Inside your cloned repository, run: <code>docker build --rm -t docker-jupyter-extensible .</code></li>
+        <li>Inside your cloned repository, build the container with: <code>docker build --rm -t docker-jupyter-extensible .</code></li>
             <ul>
                 <li>If you are having permission problems, run: <code>printf "UID=$(id -u)\nGID=$(id -g)\n" > .env</code> and try again.</li>
             </ul>
+        <li>Run the container with: <code>docker-compose up</code></li>
         <li>You should see the messages from the container in the terminal. If everything goes right, you should see a link starting with http://127.0.0.1:8888 that also contains an access token. Open this link on a browser to use the program.</li>
         <li>Access the <i>DELIVERABLE.ipynb</i> file.</li>
     </ol>
